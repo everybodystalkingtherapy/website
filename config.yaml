@@ -35,3 +35,5 @@ menu:
     name: In a Crisis
     weight: 50
     url: /in_a_crisis/
+social:
+  envelope: mailto:emma.fackelmann@gmail.com
