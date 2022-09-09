@@ -1,0 +1,37 @@
+author:
+  email: emma.fackelmann@gmail.com
+  name: Emma Fackelmann
+baseURL: https://everybodystalkingtherapy.github.io/website
+languageCode: en-us
+title: Everybody's Talking Therapy
+theme: paige
+languagecode: en-us
+enablerobotstxt: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: vs
+menu:
+  main:
+  - identifier: home
+    name: Home
+    weight: 10
+    url: /
+  - identifier: about
+    name: About
+    weight: 20
+    url: /about/
+  - identifier: booking_and_fees
+    name: Booking and Fees
+    weight: 30
+    url: /booking_and_fees/
+  - identifier: becoming_a_client
+    name: Becoming a Client
+    weight: 40
+    url: /becoming_a_client/
+  - identifier: in_a_crisis
+    name: In a Crisis
+    weight: 50
+    url: /in_a_crisis/
