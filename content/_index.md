@@ -9,6 +9,6 @@ We all hurt and in need of healing; in need of talking about it, releasing it, a
 If you’re here, visiting this site, you’re probably getting ready to seek support through moments of struggle and ready to change your current ways of thinking, feeling, and being. **What strength!**"
 
 description: Let's discover and uncover.
-greeting: Mental health is human nature, it’s like a fight club we’re all naturally born into.
+greeting: Mental health is human nature, it’s like a fight club we’re all born into.
 title: Everybody's Talking Therapy
 ---
