@@ -4,7 +4,6 @@ description: How to book and appointment
 aliases:
   - booking
   - booking-everybodystalkingtherapy
-  - contact
 menu:
     main: 
         weight: -90
