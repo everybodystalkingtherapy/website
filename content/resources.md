@@ -1,19 +1,9 @@
 ---
-title: In a Crisis
-description: Resources for individuals experiencing a crisis event
+title: Resources in a pinch
+description: Helpful resources for those seeking self improvement
 aliases:
-  - crisis
+  - resources
 ---
-> **I am not a crisis responder** and my services are focused on assisting clients that are not actively experiencing suicidal tendencies.
-
-If you are currently experiencing a crisis, the following resources may prove useful: 
-
-- [Distress Center Halton](https://www.dchalton.ca) 
-- [Distress Center Niagara](https://distresscentreniagara.com)
-- [Community Resources](https://211ontario.ca/search/) 
-- [Barrett Centre for Crisis Support](https://goodshepherdcentres.ca/services/barrett-centre-for-crisis-support/)  
-- [Crisis Outreach and Support Team](https://coasthamilton.ca/)
-
 Additionally, these are a few helpful resources I often recommend: 
 
 - The [Upward Spiral by Alex Korb, PhD](https://www.amazon.ca/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207/ref=mp_s_a_1_1?adgrpid=127566796921&gclid=Cj0KCQiAyracBhDoARIsACGFcS7DjpkKXwZzLJQd3vH9hfrXNlTopRJQcncxBzqFUqLahMrNjY2OiCUaAvv1EALw_wcB&hvadid=605879893385&hvdev=m&hvlocphy=9000876&hvnetw=g&hvqmt=e&hvrand=12974017738614520971&hvtargid=kwd-299904176334&hydadcr=516_1015042872&keywords=the+upward+spiral&qid=1670283765&sr=8-1) is great for those who notice themselves spiralling down or are diagnosed with depression (I find the information to be universal 😊)
