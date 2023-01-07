@@ -35,5 +35,9 @@ menu:
     name: In a Crisis
     weight: 50
     url: /in_a_crisis/
+  - identifier: resources_in_a_pinch
+    name: Resources In a Pinch
+    weight: 50
+    url: /resources_in_a_pinch/
 social:
   envelope: mailto:emma.fackelmann@gmail.com
