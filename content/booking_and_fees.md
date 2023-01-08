@@ -1,6 +1,6 @@
 ---
 title: Booking and Fees
-description: How to book and appointment
+description: How to book an appointment
 aliases:
   - booking
   - booking-everybodystalkingtherapy
