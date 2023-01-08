@@ -12,3 +12,29 @@ description: Let's discover and uncover.
 greeting: Mental health is human nature, it’s like a fight club we’re all born into.
 title: Everybody's Talking Therapy
 ---
+
+## Treatment Focus
+- Addiction
+- Anxiety/Panic
+- Brain Injuries/Stroke
+- Complex/Acute Trauma
+- Chronic Pain
+- Depression
+- Developmental Disorders
+- Grief and Loss
+- Mood Disturbances
+- Personality Disorders
+- Relationship Difficulties
+
+## Therapy Styles 
+- Acceptance and Commitment Therapy (ACT)
+- Cognitive Behavioural Therapy (CBT)
+- Dialectical Behavioural Therapy (DBT)
+- Emotionally Focused Therapy (EFT)
+- Internal Family Systems (IFS)
+- Neuropsychology
+- Narrative
+- Person-Centered 
+- Solution Focused
+
+
