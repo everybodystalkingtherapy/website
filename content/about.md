@@ -40,4 +40,4 @@ I hold a safe space for those who are ready to understand and explore tthemselve
 - Person-Centered 
 - Solution Focused
 
-<img src="../emma_photo.png"  width="612" height="450">
+<img src="../logo.jpg"  width="612" height="450">
