@@ -9,11 +9,11 @@ aliases:
 To book an initial 15 minute consultation, please [book here](https://calendly.com/everybodystalkingtherapy).  
 
 ## Fees
-- 60 minute independent session - $140 plus tax 
-- 30 minute - $70
-- 60 minute student session - $95 plus tax  
+- 50 minute independent session - $135 plus taxes
+- 30 minute - $70 plus taxes
+- 50 minute student session - $95 plus taxes
   
-I have a number of sliding scale openings starting as low as $75 
+I have a number of sliding scale openings starting as low as $75  plus taxes
 
 Currently accepting payments as E-transfers.
 My psychotherapy services can be covered by certain insurance companies, please review this with your specific company . 
