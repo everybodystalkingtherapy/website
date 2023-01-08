@@ -8,7 +8,8 @@ aliases:
 ## Fees
 - 60 minute independent session - $140 plus tax 
 - 30 minute - $70
-- 60 minute student session - $95 plus tax
+- 60 minute student session - $95 plus tax  
+  
 I have a number of sliding scale openings starting as low as $75 
 
 Currently accepting payments as E-transfers.
