@@ -5,6 +5,9 @@ aliases:
   - booking
   - booking-everybodystalkingtherapy
 ---
+## Booking
+To book an initial 15 minute consultation, please [book here](https://calendly.com/everybodystalkingtherapy).  
+
 ## Fees
 - 60 minute independent session - $140 plus tax 
 - 30 minute - $70
