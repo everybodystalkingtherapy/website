@@ -1,7 +1,8 @@
 author:
   email: emma.fackelmann@gmail.com
   name: Emma Fackelmann
-baseURL: https://everybodystalkingtherapy.github.io/website
+# baseURL: https://everybodystalkingtherapy.github.io/website
+baseURL: https://www.everybodystalkingtherapy.ca
 languageCode: en-us
 title: Everybody's Talking Therapy
 theme: paige
