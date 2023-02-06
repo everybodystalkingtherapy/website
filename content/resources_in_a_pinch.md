@@ -1,5 +1,5 @@
 ---
-title: Resources in a pinch
+title: Resources in a Pinch
 description: Helpful resources for those seeking self improvement. 
 aliases:
   - resources
