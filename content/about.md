@@ -23,5 +23,5 @@ Emma has a passion for neuropsychology and the development of personalities over
 On a personal note, I engage therapy techniques in my life with you and employ self-care activities throughout my week to ensure I am compassionate and attentive each time we connect. I have a strong belief that our relationships shape and influence our mental health, including the client-therapist relationship. During my time away from the office, I socialize with friends and family, hike, travel, snowboard, play sports, complete DIY projects, and research astrology and sociology. 
 
 <div style="text-align:center">
-<img src="https://www.everybodystalkingtherapy.ca/logo.jpg"  width="612" height="450">
+<img src="https://www.everybodystalkingtherapy.ca/eth1.jpg">
 </div>
