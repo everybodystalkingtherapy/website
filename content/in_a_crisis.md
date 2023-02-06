@@ -6,7 +6,9 @@ aliases:
 ---
 > **I am not a crisis responder** and my services are focused on assisting clients that are not actively experiencing suicidal tendencies.
 
-If you are currently experiencing a crisis, the following resources may prove useful: 
+If you are experiencing a mental health or addictions crisis, please call COAST 1-866-550-5205(press 1) or your primary care provider. For any emergencies, please call 9-1-1 or go to the nearest emergency department.
+
+Additionally, the following resources may prove useful: 
 
 - [Distress Center Halton](https://www.dchalton.ca) 
 - [Distress Center Niagara](https://distresscentreniagara.com)
