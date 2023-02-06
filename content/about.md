@@ -6,38 +6,21 @@ aliases:
   - about-everybodystalkingtherapy
   - contact
 ---
+<p>
+<img src="../emma_headshot.png"  width="612" height="450" align="center">
+Owner & Psychotherapist 
+Emma Fackelmann 
+</p>
 
-I have worked in the mental health field for the last eight years and throughout many diversities/personal experiences my career development has allowed me to develop into the practitioner I am today. I stay true to my genuine and unconditionally supportive values, which  center around: 
- - automonmy 
- - authenticity 
- - growth 
- - passion 
- - empathy
+Emma is the founder of Everybody's Talking and is currently the head psychotherapist. Over the past nine years, she has worked in mental health and addictions, furthering her career development in psychotherapy since 2018. Her theoretical practices are integratively grounded in trauma-informed care, humanistic, existential, psychodynamic, person-centered, biopsychosocial, and attachment theories. She incorporates technical elements eclectically to suit the needs of her clients; a few examples of therapy modalities she practices include: 
 
-I hold a safe space for those who are ready to understand and explore tthemselves
+- [Acceptance and Commitment Therapy (ACT)](https://www.psychologytoday.com/ca/therapy-types/acceptance-and-commitment-therapy) 
+- [Dialectical Behaviour Therapy (DBT)](https://www.psychologytoday.com/ca/blog/hope-eating-disorder-recovery/201609/what-is-dbt )
+- [Emotionally Focused Individual Therapy (EFIT)](https://www.psychologytoday.com/ca/blog/the-author-speaks/202109/primer-emotionally-focused-individual-therapy)
+- [Rational Emotive Behaviour Therapy (REBT)](https://www.psychologytoday.com/ca/therapy-types/rational-emotive-behavior-therapy#:~:text=Rational%20Emotive%20Behavior%20Therapy%20is,with%20healthier%2C%20more%20productive%20beliefs)
 
-## Treatment Focus
-- Addiction
-- Anxiety/Panic
-- Brain Injuries/Stroke
-- Complex/Acute Trauma
-- Chronic Pain
-- Depression
-- Developmental Disorders
-- Grief and Loss
-- Mood Disturbances
-- Personality Disorders
-- Relationship Difficulties
+Emma has a passion for neuropsychology and the development of personalities over the life span. Her career development has provided her with opportunities working with Medical Psychotherapy, Brock University, and involvement with Chrysalis Institute. She aims to continue her education in trauma-informed care and enhance her clinician skills by researching up-to-date, evidence-based practices. She hopes to educate the community through future group programs and volunteering with organizations in the Hamilton/Halton area. 
 
-## Therapy Styles
-- Acceptance and Commitment Therapy (ACT)
-- Cognitive Behavioural Therapy (CBT)
-- Dialectical Behavioural Therapy (DBT)
-- Emotionally Focused Therapy (EFT)
-- Internal Family Systems (IFS)
-- Neuropsychology
-- Narrative
-- Person-Centered 
-- Solution Focused
+On a personal note, I engage therapy techniques in my life with you and employ self-care activities throughout my week to ensure I am compassionate and attentive each time we connect. I have a strong belief that our relationships shape and influence our mental health, including the client-therapist relationship. During my time away from the office, I socialize with friends and family, hike, travel, snowboard, play sports, complete DIY projects, and research astrology and sociology. 
 
 <img src="../logo.jpg"  width="612" height="450">
