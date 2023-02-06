@@ -7,7 +7,8 @@ aliases:
 ---
 <div style="text-align:center">
 <img src="https://www.everybodystalkingtherapy.ca/emma_headshot.png" alt="Owner & Psychotherapist Emma Fackelmann"/>  
-<p>Owner & Psychotherapist Emma Fackelmann</p>
+<p>Owner & Psychotherapist </p>
+<p><b>Emma Fackelmann</b></p>
 </div>
 
 Emma is the founder of Everybody's Talking and is currently the head psychotherapist. Over the past nine years, she has worked in mental health and addictions, furthering her career development in psychotherapy since 2018. Her theoretical practices are integratively grounded in trauma-informed care, humanistic, existential, psychodynamic, person-centered, biopsychosocial, and attachment theories. She incorporates technical elements eclectically to suit the needs of her clients; a few examples of therapy modalities she practices include: 
