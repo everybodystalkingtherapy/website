@@ -29,10 +29,10 @@ menu:
     name: Booking and Fees
     weight: 30
     url: /booking_and_fees/
-  # - identifier: becoming_a_client
-  #   name: Becoming a Client
-  #   weight: 40
-  #   url: /becoming_a_client/
+  - identifier: starting_therapy
+    name: Starting Therapy
+    weight: 40
+    url: /starting_therapy/
   - identifier: in_a_crisis
     name: In a Crisis
     weight: 50
