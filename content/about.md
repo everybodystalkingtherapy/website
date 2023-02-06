@@ -7,7 +7,7 @@ aliases:
   - contact
 ---
 <div style="text-align:center">
-<img src="https://www.everybodystalkingtherapy.ca/avatar.jpg" alt="Owner & Psychotherapist Emma Fackelmann"/>  
+<img src="https://www.everybodystalkingtherapy.ca/emma_headshot.jpg" alt="Owner & Psychotherapist Emma Fackelmann"/>  
 <p>Owner & Psychotherapist Emma Fackelmann</p>
 </div>
 

@@ -14,5 +14,5 @@ Sessions typically last for 50 minutes, and the final 10 minutes are utilized by
 
 <div style="text-align:center">
 <p>“what we don’t need in the midst of struggle is shame for being human” – Brene Brown</p>
-<img src="https://www.everybodystalkingtherapy.ca/eth2.jpg"/>  
+<img src="https://www.everybodystalkingtherapy.ca/eth2.png"/>  
 </div>
