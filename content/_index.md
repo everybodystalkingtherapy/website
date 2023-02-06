@@ -2,9 +2,10 @@
 description: Psychotherapy Services 
 greeting: Reflecting with Meaning and Paving the Way to a More Aware You
 title: Everybody’s Talking 
-photo_caption: "Emma Fackelmann (she/her), MA  
-Registered Psychotherapist
-College of Registered Psychotherapists of Ontario 
+photo_caption: "Emma Fackelmann (she/her), MA, Registered Psychotherapist  
+
+
+College of Registered Psychotherapists of Ontario   
 Registration #10480"
 
 blurb: "As humans, we experience unique and varying struggles but are unsure how to manage life with fulfilled stability. Opening up about these struggles can feel overwhelming and awkward, or we may feel like we are “dumping” on those around us. Having a therapist to supportively listen, empathize, and constructively help guide your mental health plan can make the journey of healing with resiliency and self-compassion lighter and less isolating. 
