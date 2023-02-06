@@ -2,7 +2,7 @@
 description: Psychotherapy Services 
 greeting: Reflecting with Meaning and Paving the Way to a More Aware You
 title: Everybody’s Talking 
-photo_caption: "Emma Fackelmann (she/her), MA, RP
+photo_caption: "Emma Fackelmann (she/her), MA  
 Registered Psychotherapist
 College of Registered Psychotherapists of Ontario 
 Registration #10480"
