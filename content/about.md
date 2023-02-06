@@ -1,6 +1,5 @@
 ---
 title: About
-description: I am Emma Fackelman and here is what I can offer you
 aliases:
   - about-us
   - about-everybodystalkingtherapy
