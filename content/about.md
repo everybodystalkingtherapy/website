@@ -20,7 +20,7 @@ Emma is the founder of Everybody's Talking and is currently the head psychothera
 
 Emma has a passion for neuropsychology and the development of personalities over the life span. Her career development has provided her with opportunities working with Medical Psychotherapy, Brock University, and involvement with Chrysalis Institute. She aims to continue her education in trauma-informed care and enhance her clinician skills by researching up-to-date, evidence-based practices. She hopes to educate the community through future group programs and volunteering with organizations in the Hamilton/Halton area. 
 
-On a personal note, I engage therapy techniques in my life with you and employ self-care activities throughout my week to ensure I am compassionate and attentive each time we connect. I have a strong belief that our relationships shape and influence our mental health, including the client-therapist relationship. During my time away from the office, I socialize with friends and family, hike, travel, snowboard, play sports, complete DIY projects, and research astrology and sociology. 
+On a personal note, I engage therapy techniques in my life with you and employ self-care activities throughout my week to ensure I am compassionate and attentive each time we connect. I have a strong belief that our relationships shape and influence our mental health, including the client-therapist relationship. During my time away from the office, I socialize with friends and family, hike, travel, snowboard, play sports, complete DIY projects, and research astronomy and sociology. 
 
 <div style="text-align:center">
 <img src="https://www.everybodystalkingtherapy.ca/eth1.png">
